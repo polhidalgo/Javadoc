@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"provaEscrita","l":"Fitxa"},{"p":"provaEscrita","l":"Obra"},{"p":"provaEscrita","l":"Revista"},{"p":"provaEscrita","l":"Volum"}];updateSearchResults();
